@@ -12,8 +12,13 @@ I am a Junior Web Developer from Ukraine.
 
 - I’ve been actively studying the Web Developer for 1+ year. Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team. Read much specialized literature. I like to achieve perfection in everything I do.
 
-🌐 Languages : English, Ukrainian, Russian.
-
+🌐 Languages :
+<ul>
+  <li>🇬🇧English</li>
+  <li>🇮🇩Polish</li>
+  <li>🇺🇦Ukrainian</li>
+  <li>🇷🇺Russian</li>
+  </ul>
 <br>
 
 ### My stack and tools :
