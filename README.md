@@ -2,15 +2,15 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
   
   <h1>
-    Hey there, I'm Viktor!
+    Hey there, I'm Evan!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   </div>
   
 ### :technologist: About Me :
-I am a Junior Full Stack Developer from Ukraine.
+I am a Junior Web Developer from Ukraine.
 
-- I’ve been actively studying the full stack for 1+ year. Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team. Read much specialized literature. I like to achieve perfection in everything I do.
+- I’ve been actively studying the Web Developer for 1+ year. Quickly learn new information, have good analytical skills, attentive to details, work well on my own and in a team. Read much specialized literature. I like to achieve perfection in everything I do.
 
 🌐 Languages : English, Ukrainian, Russian.
 
