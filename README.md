@@ -19,7 +19,7 @@ I am a Junior Web Developer from Ukraine.
   <li>🇺🇦Ukrainian</li>
   <li>🇷🇺Russian</li>
   </ul>
-<br>
+
 
 ### My stack and tools :
 
