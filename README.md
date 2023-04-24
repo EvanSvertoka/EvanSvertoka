@@ -41,7 +41,6 @@ I am a Junior Web Developer from Ukraine.
   <img src="https://browsersl.ist/browserlist-e428d541.svg" title="Browserslist" alt="Browserslist" width="40" height="40"/>&nbsp;
 </div>
 
-<br>
 
 ### GitHub Stats :
 
