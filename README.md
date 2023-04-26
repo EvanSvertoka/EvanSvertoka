@@ -20,7 +20,7 @@ I am a Junior Web Developer from Ukraine.
   <li>🇷🇺Russian</li>
   </ul>
 
-<br />
+
 
 ### My stack and tools :
 
@@ -42,7 +42,7 @@ I am a Junior Web Developer from Ukraine.
   <img src="https://browsersl.ist/browserlist-e428d541.svg" title="Browserslist" alt="Browserslist" width="40" height="40"/>&nbsp;
 </div>
 
-<br />
+
 
 ### GitHub Stats :
 
@@ -61,12 +61,14 @@ I am a Junior Web Developer from Ukraine.
     </td>
   </tr>
 </table>
- <br>
+
+
+
   <div align = "center">
            <img src="https://github-profile-trophy-arasgungore.vercel.app/?username=EvanSvertoka&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Viktor Svertoka" />
       </div>
 
-<br>
+
  
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Lego;I+Love+Star+Wars;I+Love+Games;" alt="Headline" /> 
