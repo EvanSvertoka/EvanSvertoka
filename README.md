@@ -62,10 +62,10 @@ I am a Junior Developer from Ukraine.
 
   <div align = "center">
            <img src="https://github-profile-trophy-arasgungore.vercel.app/?username=EvanSvertoka&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Viktor Svertoka" />
-      </div>
+  </div>
 
 <br>
  
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Lego;I+Love+Star+Wars;I+Love+Games;" alt="Headline" /> 
-     </div>   
+</div>   
