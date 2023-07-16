@@ -15,7 +15,6 @@ I am a Junior Developer from Ukraine.
   <li>🇬🇧English</li>
   <li>🇮🇩Polish</li>
   <li>🇺🇦Ukrainian</li>
-  <li>🇷🇺Russian</li>
   </ul>
 
 ### My stack and tools :
