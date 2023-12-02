@@ -5,7 +5,7 @@
   </h1>
   </div>
   
-### :technologist: About Me :
+### About Me :
 I am a JavaScript Ninja.
 
 🌐 Languages :
