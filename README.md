@@ -23,7 +23,6 @@ I am a JavaScript Ninja.
 
 <br>
 
-
  
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Lego;I+Love+Star+Wars;I+Love+Games;" alt="Headline" /> 
