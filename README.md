@@ -6,7 +6,7 @@
   </div>
   
 ### About Me :
-I am a JavaScript Ninja.
+I am a JavaScript Ninja 🥷.
 
 🌐 Languages :
 <ul>
