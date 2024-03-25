@@ -13,13 +13,14 @@ I am a JavaScript Ninja 🥷.
   <li>🇬🇧English</li>
   <li>🇮🇩Polish</li>
   <li>🇺🇦Ukrainian</li>
-  </ul>
+</ul>
 
 ### My stack and tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
 </div>
+
 
 <br>
 
