@@ -21,10 +21,9 @@ I am a JavaScript Ninja 🥷.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
 </div>
 
-
 <br>
 
- 
+
 <div align=center> 
          <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=Fun+Facts:+;I+Love+Lego;I+Love+Star+Wars;I+Love+Games;" alt="Headline" /> 
 </div>   
